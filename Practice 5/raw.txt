@@ -1,0 +1,17 @@
+MAGNUM SUPERMARKET
+Almaty, Kazakhstan
+
+Receipt No: 458921
+Date: 28.02.2026
+Time: 19:42
+
+Milk 450.00
+Bread 230.00
+Chocolate 560.50
+Apple Juice 1 200.75
+
+TOTAL: 2 441.25
+
+Payment Method: CARD
+Cashier: Aigerim
+Thank you for shopping with us!
