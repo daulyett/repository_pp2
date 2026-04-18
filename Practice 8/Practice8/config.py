@@ -1,0 +1,4 @@
+host = "localhost"
+database = "your_database_name"
+user = "postgres"
+password = "your_password"
