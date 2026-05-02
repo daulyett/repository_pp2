@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Alice Smith",
+        "email": "alice@gmail.com",
+        "birthday": "1995-05-12",
+        "group": "Friend",
+        "phones": [
+            {
+                "phone": "123456789",
+                "type": "mobile"
+            }
+        ]
+    },
+    {
+        "name": "Bob Jones",
+        "email": "bob@work.com",
+        "birthday": "1988-11-20",
+        "group": "Work",
+        "phones": [
+            {
+                "phone": "987654321",
+                "type": "work"
+            }
+        ]
+    }
+]
